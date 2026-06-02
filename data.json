@@ -1,0 +1,213 @@
+{
+  "github_source_repo": "https://github.com/serpcompany/saintporn-downloader",
+  "serply_link": "https://serp.ly/saintporn-downloader",
+  "app_name": "Saintporn Video Downloader",
+  "short_description": "Download & Save Saintporn Videos Easily for Offline Viewing (Browser Extension)",
+  "long_description": "Saintporn Downloader is a browser extension designed to capture and save videos from SaintPorn video pages. It works by observing network activity during playback to detect and download the media stream, giving you a local MP4 file you can keep, move, or play offline. The extension targets SaintPorn's video page URLs directly, with verified coverage for the main domain, www subdomain, and wildcard subdomains.",
+  "main_video": "",
+  "featured_image": "",
+  "screenshots": [
+    "https://apps.serp.co/media/optimized-products/saintporn-downloader-fullscreen-01-3e2b51cbdb.webp",
+    "https://apps.serp.co/media/optimized-products/saintporn-downloader-fullscreen-02-6e6e2b16b7.webp",
+    "https://apps.serp.co/media/optimized-products/saintporn-downloader-fullscreen-03-43606d5b4f.webp",
+    "https://apps.serp.co/media/optimized-products/saintporn-downloader-fullscreen-04-c1706ffa7e.webp"
+  ],
+  "chromestore_link": "",
+  "firefoxstore_link": "",
+  "other_links": [],
+  "faqs": [
+    {
+      "question": "What browsers are supported?",
+      "answer": "The extension works on Chrome, Edge, Brave, and Firefox. Download the correct build for your browser from the releases page."
+    },
+    {
+      "question": "Do I need an account to use the extension?",
+      "answer": "Yes, you need to sign in with your email using a one-time password. This enables the trial and license system."
+    },
+    {
+      "question": "How many videos can I download for free?",
+      "answer": "You get 3 free downloads to test the extension. After that, a paid license is required for unlimited downloads."
+    },
+    {
+      "question": "Is my download history tracked?",
+      "answer": "The extension does not track or store information about which videos you download. Your activity remains private."
+    },
+    {
+      "question": "Can I download videos in 4K quality?",
+      "answer": "The available quality options depend on what SaintPorn serves during playback. The extension detects whatever streams are present on the page."
+    }
+  ],
+  "permissions": [
+    {
+      "name": "",
+      "description": "Archiving content you have permission to keep for personal use"
+    },
+    {
+      "name": "",
+      "description": "Only download content you own or have explicit permission to save"
+    }
+  ],
+  "features": [
+    "Target-verified coverage for SaintPorn video pages",
+    "Browser-network handoff detection for reliable media capture",
+    "Direct MP4 output for easy playback and archiving",
+    "3 free downloads to test the workflow before committing",
+    "Works on Chrome, Edge, Brave, and Firefox",
+    "Direct detection of media streams from SaintPorn video pages",
+    "Browser-network handoff for reliable capture during playback",
+    "MP4 output format for broad device and player compatibility",
+    "Simple popup interface to control downloads",
+    "Support for Chrome, Edge, Brave, and Firefox browsers",
+    "3 free trial downloads with no credit card required",
+    "Secure email sign-in using one-time password verification",
+    "Unlimited downloads available with a paid license"
+  ],
+  "content": {
+    "why": [
+      "SaintPorn hosts a large library of adult video content, but the platform does not provide a native download option for its video pages. If you want to save a video for offline viewing, you are left with no built-in way to do it. Screen recording is clunky, reduces quality, and takes up more space than necessary.",
+      "Saintporn Downloader solves this by detecting the media stream directly from the page during playback. Instead of recording your screen or relying on third-party sites, you get a clean MP4 file captured from the network layer. The extension is built specifically around SaintPorn video page URLs, with a target-verified handoff profile that has been tested against the site's structure."
+    ],
+    "how_it_works": [
+      "Install the extension from the latest release.",
+      "Open SaintPorn and go to a supported video page.",
+      "Start playback so the extension can detect the media.",
+      "Open the popup or use the on-page controls.",
+      "Choose the quality option you want.",
+      "Start the download and wait for the MP4 export to finish.",
+      "Save the final file locally."
+    ],
+    "tutorial": [
+      "Install the Saintporn Downloader extension from the GitHub Releases page.",
+      "Navigate to SaintPorn.com and find a video you want to save.",
+      "Open the video page and start playback.",
+      "Click the extension icon in your browser toolbar to open the popup.",
+      "Wait for the extension to detect the available media stream.",
+      "Select your preferred quality from the options shown.",
+      "Click the download button to begin capturing the video.",
+      "When the download completes, save the MP4 file to your chosen location."
+    ],
+    "supported_formats": [
+      "Input: Media streams detected from SaintPorn video pages during playback",
+      "Output: MP4",
+      "Saved files use MP4 so they are easier to replay on standard media players, move between devices, or archive locally."
+    ],
+    "target_users": [
+      "SaintPorn users who want to save videos for offline viewing",
+      "Collectors who build personal libraries of adult content",
+      "Users with limited or unreliable internet who need offline access",
+      "Anyone who wants to avoid streaming the same video multiple times"
+    ],
+    "use_cases": [
+      "Saving a favorite video to watch later without an internet connection",
+      "Archiving content you have permission to keep for personal use",
+      "Reducing data usage by downloading once instead of streaming repeatedly",
+      "Building a curated offline collection of adult videos",
+      "Transferring videos to devices that do not support streaming"
+    ],
+    "troubleshooting": [
+      "The extension does not detect any media on the page Make sure the video is playing before you open the popup. The extension needs to see network activity from the stream to detect it.",
+      "The download starts but fails partway through Check your internet connection and try again. A stable connection is required for the entire download process.",
+      "The popup does not open when I click the icon Try refreshing the SaintPorn page and clicking the icon again. If the issue persists, reinstall the extension from the latest release.",
+      "I see an error about unsupported video format Only videos played directly on SaintPorn video pages are supported. Embedded or external players may not work.",
+      "The download is very slow Large video files can take time to download. Make sure you have a fast internet connection and close other bandwidth-heavy applications."
+    ],
+    "trial_access": [
+      "Includes 3 free downloads so you can test the workflow first",
+      "Email sign-in uses secure one-time password verification",
+      "No credit card required for the trial",
+      "Unlimited downloads are available with a paid license"
+    ],
+    "installation_instructions": [
+      "Open the latest release page.",
+      "Download the correct build for your browser.",
+      "Install the extension.",
+      "Open a supported SaintPorn page.",
+      "Use the popup to detect and download the media."
+    ],
+    "notes": [
+      "Only download content you own or have explicit permission to save",
+      "An internet connection is required for downloads",
+      "SaintPorn may change its site structure, which could affect detection",
+      "This extension is not affiliated with or endorsed by SaintPorn"
+    ],
+    "about": [
+      "SaintPorn is an adult video hosting platform featuring a wide variety of user-uploaded and curated content. Saintporn Downloader helps users save videos from SaintPorn video pages for offline access and personal archiving."
+    ]
+  },
+  "serpx_link": "https://serpx.link/saintporn-downloader",
+  "github_topics": [
+    "saintporn-download",
+    "saintporn-downloader",
+    "saintporn-video-downloader",
+    "saintporn-video-downloader-online",
+    "saintporn-video-downloader-mac",
+    "saintporn-video-downloader-window",
+    "saintporn-video-downloader-free",
+    "saintporn-video-downloader-extension",
+    "saintporn-video-downloader-app",
+    "saintporn-video-downloader-chrome",
+    "saintporn-video-downloader-from-url",
+    "how-to-download-saintporn-videos",
+    "how-to-download-saintporn-videos-mac",
+    "how-to-download-saintporn-videos-windows",
+    "how-to-download-saintporn-videos-online",
+    "how-to-download-saintporn-videos-free",
+    "how-to-download-from-saintporn",
+    "how-to-download-videos-from-saintporn",
+    "download-saintporn-videos",
+    "saintporn-video-tutorial",
+    "save-saintporn-videos",
+    "saintporn-video-content-saver",
+    "how-to-download-saintporn-videos-for-free"
+  ],
+  "hashtags": [
+    "#SaintpornDownload",
+    "#SaintpornDownloader",
+    "#SaintpornVideoDownloader",
+    "#SaintpornVideoDownloaderOnline",
+    "#SaintpornVideoDownloaderMac",
+    "#SaintpornVideoDownloaderWindow",
+    "#SaintpornVideoDownloaderFree",
+    "#SaintpornVideoDownloaderExtension",
+    "#SaintpornVideoDownloaderApp",
+    "#SaintpornVideoDownloaderChrome",
+    "#SaintpornVideoDownloaderFromURL",
+    "#HowToDownloadSaintpornVideos",
+    "#HowToDownloadSaintpornVideosMac",
+    "#HowToDownloadSaintpornVideosWindows",
+    "#HowToDownloadSaintpornVideosOnline",
+    "#HowToDownloadSaintpornVideosFree",
+    "#HowToDownloadFromSaintporn",
+    "#HowToDownloadVideosFromSaintporn",
+    "#DownloadSaintpornVideos",
+    "#SaintpornVideoTutorial",
+    "#SaveSaintpornVideos",
+    "#SaintpornVideoContentSaver",
+    "#HowToDownloadSaintpornVideosForFree"
+  ],
+  "youtube_tags": [
+    "Saintporn Download",
+    "Saintporn Downloader",
+    "Saintporn Video Downloader",
+    "Saintporn Video Downloader Online",
+    "Saintporn Video Downloader Mac",
+    "Saintporn Video Downloader Window",
+    "Saintporn Video Downloader Free",
+    "Saintporn Video Downloader Extension",
+    "Saintporn Video Downloader App",
+    "Saintporn Video Downloader Chrome",
+    "Saintporn Video Downloader From URL",
+    "How To Download Saintporn Videos",
+    "How To Download Saintporn Videos Mac",
+    "How To Download Saintporn Videos Windows",
+    "How To Download Saintporn Videos Online",
+    "How To Download Saintporn Videos Free",
+    "How To Download From Saintporn",
+    "How To Download Videos From Saintporn",
+    "Download Saintporn Videos",
+    "Saintporn Video Tutorial",
+    "Save Saintporn Videos",
+    "Saintporn Video Content Saver",
+    "How To Download Saintporn Videos For Free"
+  ]
+}
